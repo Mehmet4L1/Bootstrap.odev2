@@ -1,0 +1,75 @@
+.navbar{
+    height: 54px;
+    background-color: white;
+
+}
+.story{
+    margin-top:20% ;
+}
+.navbar ul li i{
+    color: black;
+}
+.ppp{
+    width: 46px;
+    height: 46px;
+    position: relative;
+}
+.yazi{
+    font-size: 12px;
+}
+
+.pp{
+    width: 1.5em;
+    height: 1.5em;
+    position: relative;
+}
+.spp{
+    width: 56px;
+    height: 56px;
+    position: relative;
+    border-width: 2px !important ;
+}
+.post-btn{
+    right: 0;
+    top: 0;
+    bottom: 0;
+}
+.comment{
+    border-top: 1px solid lightgray;
+}
+.side-pp{
+    width: 56px;
+    height: 56px;
+    position: relative;
+}
+.sag{
+    margin-top: 15%;
+}
+
+.profile-info-username{
+    display: block;
+    font-size: 14px;
+    font-weight: bold;
+}
+.profile-info-name{
+    display: block;
+    font-size: 12px;
+}
+.suggest-pp{
+    width: 46px;
+    height: 46px;
+    position: relative;
+    border-width: 2px !important;
+}
+.btn-sgg{
+    
+    background-color: transparent;
+    color:#007bff;
+    border:0;
+    font-weight: 600;
+}
+.btn-sgg:hover,
+.btn-sgg:focus {
+    background-color: transparent;
+    color:#007bff;
+}
